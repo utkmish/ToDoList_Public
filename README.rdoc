@@ -1,0 +1,10 @@
+README
+
+To launch the app:
+1. clone the repository.
+2. Install Rails 
+3. Go into the app directory and type "rails server" in terminal
+4. Launch the app in the browser
+You're all SET!
+
+NOTE: Make sure you have necessary gems installed or the server won't run!
